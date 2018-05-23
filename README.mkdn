@@ -1,0 +1,7 @@
+Vendor Tree for Motorola Moto E⁴
+--
+**Codename** : woods
+
+**SoC** : MT6737M
+
+**SKU** : XT1762
